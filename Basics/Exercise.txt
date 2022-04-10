@@ -1,0 +1,25 @@
+
+~Questions~
+
+1: Explain what the terminal is in your own words.
+
+A window that is text only and it diviates from a GUI. The use of the command line system allows one to make quick changes and view files that cannot normally be viewed through the usual GUI among other additional uses.
+
+______
+
+2: What is the major difference between Git and Github? 
+
+Although connected, Git refers to the version control program that is installed locally on a user's system. While Git hub refers to the repository hosting service meant for Git. Github is also cloud based while Git is not.
+
+______
+
+3: Why do we use Github? 
+
+A handful of positives when using Github are as follows: 
+- Github's git keeps track of changes made.
+- Git allows for collaborating among multiple team members and offers an extensive community.
+- Code changes can be reviewed by others
+- The use of branching allows users to make a unique sets of code changes without affecting the master code. 	Multiple branches can also be created.  
+
+______
+
